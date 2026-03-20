@@ -59,7 +59,7 @@
 </p>
 
 ---
-
+<!-- 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -69,7 +69,7 @@
 | [🔗 Project Three](https://github.com/enigmasheet/project-three) | Short description of what it does | .NET Framework |
 
 ---
-
+-->
 <!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
