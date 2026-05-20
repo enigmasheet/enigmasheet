@@ -1,121 +1,141 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Abhay%20Mandal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%7C%20Backend%20Engineer&descAlignY=56&descAlign=50" alt="banner" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=Abhay%20Mandal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20•%20Backend%20Engineer&descAlignY=58&descAlign=50"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=.NET+%26+C%23+Developer+%F0%9F%92%BB;ASP.NET+Core+%7C+REST+APIs+%7C+EF+Core;Next.js+%7C+React+%7C+Node.js;Clean+Architecture+%26+System+Design;Building+Laundry+SaaS+%F0%9F%9A%80" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=.NET+%26+C%23+Developer;ASP.NET+Core+%7C+Clean+Architecture;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Backend+Systems;Currently+Building+Laundry+SaaS+🧺"
+  />
 </p>
 
 <p align="center">
   <a href="mailto:info@abhaymandal.com.np">
-    <img src="https://img.shields.io/badge/Email-info%40abhaymandal.com.np-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-0078D4?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-.NET%20%26%20Backend-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=enigmasheet&style=flat-square&color=2575fc&label=Profile+Views" />
+
+  <a href="https://github.com/enigmasheet">
+    <img src="https://img.shields.io/badge/GitHub-enigmasheet-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Kathmandu-Nepal-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## 👤 About Me
+# 👨‍💻 About Me
 
 ```csharp
-var abhay = new Developer
+public class Developer
 {
-    Name           = "Abhay Mandal",
-    Location       = "Kathmandu, Nepal 🇳🇵",
-    PrimaryStack   = new[] { "C#", ".NET", "ASP.NET Core" },
-    FrontEnd       = new[] { "React", "Next.js" },
-    Runtime        = new[] { "Node.js" },
-    Cloud          = new[] { "Azure" },
-    CurrentProject = "Laundry SaaS Platform 🧺",
-    Learning       = new[] { "System Architecture", "Backend Engineering", "Azure Cloud" },
-    Contact        = "info@abhaymandal.com.np"
-};
+    public string Name => "Abhay Mandal";
+
+    public string[] Backend =>
+    [
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Entity Framework Core"
+    ];
+
+    public string[] Frontend =>
+    [
+        "React",
+        "Next.js"
+    ];
+
+    public string[] Database =>
+    [
+        "SQL Server",
+        "PostgreSQL"
+    ];
+
+    public string[] Cloud =>
+    [
+        "Azure"
+    ];
+
+    public string CurrentFocus =>
+        "Building scalable SaaS applications and backend systems";
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### 🔷 Primary — .NET Ecosystem
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
 </p>
 
-### 🌐 Frontend & Full-Stack
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
 </p>
 
-### 🗄️ Databases & APIs
+### Database & Cloud
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,docker" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" 
+  <img
     height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+
+  <img
     height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=enigmasheet&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=enigmasheet&theme=tokyo-night&hide_border=true&area=true" 
-    width="95%"
+  <img
+    src="https://streak-stats.demolab.com?user=enigmasheet&theme=tokyonight&hide_border=true"
   />
 </p>
 
 ---
-<!--
-## 🚀 Featured Projects
 
-| 🔗 Project | 📝 Description | 🛠 Stack |
-|-----------|---------------|---------|
-| [Laundry SaaS](https://github.com/enigmasheet/laundry-saas) | Multi-tenant laundry management SaaS platform | C#, ASP.NET Core, SQL Server, EF Core |
-| [Project Two](https://github.com/enigmasheet/project-two) | Short description of what it does | Next.js, Node.js, REST API |
-| [Project Three](https://github.com/enigmasheet/project-three) | Short description of what it does | .NET Framework, C# |
+# 🚀 Current Focus
+
+- Building a Laundry Management SaaS Platform
+- Learning scalable system architecture
+- Improving backend engineering skills
+- Exploring Azure cloud ecosystem
 
 ---
--->
-<!-- Footer wave -->
+
+# 📫 Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:2575fc,100:6a11cb&height=120&section=footer" />
+  <a href="mailto:info@abhaymandal.com.np">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/enigmasheet">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer"
+    width="100%"
+  />
 </p>
