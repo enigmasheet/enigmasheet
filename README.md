@@ -7,30 +7,20 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=.NET+%26+C%23+Developer;ASP.NET+Core+%7C+Clean+Architecture;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Backend+Systems;Currently+Building+Laundry+SaaS+🧺"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=.NET+%26+C%23+Developer;ASP.NET+Core+%7C+Clean+Architecture;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Backend+Systems;Currently+Building+Laundry+SaaS+🧺"
   />
 </p>
 
 <p align="center">
   <a href="mailto:info@abhaymandal.com.np">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/enigmasheet">
-    <img
-      src="https://img.shields.io/badge/GitHub-enigmasheet-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-enigmasheet-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <img
-    src="https://img.shields.io/badge/Kathmandu-Nepal-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"
-    alt="Location"
-  />
+  <img src="https://img.shields.io/badge/Kathmandu-Nepal-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -42,37 +32,37 @@ public class Developer
 {
     public string Name => "Abhay Mandal";
 
-    public string[] Backend =>
-    [
+    public string[] Backend => new[]
+    {
         "C#",
         ".NET",
         "ASP.NET Core",
         "Entity Framework Core"
-    ];
+    };
 
-    public string[] Frontend =>
-    [
+    public string[] Frontend => new[]
+    {
         "React",
         "Next.js",
         "Blazor"
-    ];
+    };
 
-    public string[] Database =>
-    [
+    public string[] Database => new[]
+    {
         "PostgreSQL",
         "SQL Server"
-    ];
+    };
 
-    public string[] DevOps =>
-    [
+    public string[] DevOps => new[]
+    {
         "Docker",
         "Linux VPS"
-    ];
+    };
 
-    public string[] Cloud =>
-    [
+    public string[] Cloud => new[]
+    {
         "Azure"
-    ];
+    };
 
     public string CurrentFocus =>
         "Building scalable SaaS applications and backend systems";
@@ -85,58 +75,43 @@ public class Developer
 
 ### Backend
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=dotnet,cs,nodejs"
-    alt="Backend Skills"
-  />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
 </p>
 
 ### Frontend
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,js,ts"
-    alt="Frontend Skills"
-  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
 </p>
 
 ### Database & DevOps
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=postgres,mysql,docker,azure"
-    alt="Database and DevOps"
-  />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,azure" />
 </p>
 
 ### Tools
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"
-    alt="Tools"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"
-    alt="Top Languages"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=enigmasheet&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
   />
 </p>
 
@@ -144,10 +119,10 @@ public class Developer
 
 # 🚀 Current Focus
 
-- 🧺 Building a Laundry Management SaaS Platform
-- 🏗️ Learning scalable system architecture
-- ⚙️ Improving backend engineering skills
-- ☁️ Exploring Azure cloud ecosystem
+- 🧺 Building Laundry Management SaaS Platform
+- 🏗️ Scalable system architecture design
+- ⚙️ Backend engineering with .NET
+- ☁️ Azure cloud + deployment workflows
 
 ---
 
@@ -155,17 +130,11 @@ public class Developer
 
 <p align="center">
   <a href="mailto:info@abhaymandal.com.np">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/enigmasheet">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
