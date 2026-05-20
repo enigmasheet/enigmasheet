@@ -1,26 +1,36 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=Abhay%20Mandal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20•%20Backend%20Engineer&descAlignY=58&descAlign=50"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=Abhay%20Mandal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20•%20Backend%20Engineer&descAlignY=58&descAlign=50"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=.NET+%26+C%23+Developer;ASP.NET+Core+%7C+Clean+Architecture;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Backend+Systems;Currently+Building+Laundry+SaaS+🧺"
+    alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <a href="mailto:info@abhaymandal.com.np">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/enigmasheet">
-    <img src="https://img.shields.io/badge/GitHub-enigmasheet-181717?style=for-the-badge&logo=github" />
+    <img
+      src="https://img.shields.io/badge/GitHub-enigmasheet-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
-  <img src="https://img.shields.io/badge/Kathmandu-Nepal-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Kathmandu-Nepal-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"
+    alt="Location"
+  />
 </p>
 
 ---
@@ -43,13 +53,20 @@ public class Developer
     public string[] Frontend =>
     [
         "React",
-        "Next.js"
+        "Next.js",
+        "Blazor"
     ];
 
     public string[] Database =>
     [
-        "SQL Server",
-        "PostgreSQL"
+        "PostgreSQL",
+        "SQL Server"
+    ];
+
+    public string[] DevOps =>
+    [
+        "Docker",
+        "Linux VPS"
     ];
 
     public string[] Cloud =>
@@ -67,23 +84,35 @@ public class Developer
 # ⚡ Tech Stack
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=dotnet,cs,nodejs"
+    alt="Backend Skills"
+  />
 </p>
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,blazor" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,js,ts"
+    alt="Frontend Skills"
+  />
 </p>
 
-### Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mssql,docker,VPS" />
+### Database & DevOps
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,docker,azure"
+    alt="Database and DevOps"
+  />
 </p>
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"
+    alt="Tools"
+  />
 </p>
 
 ---
@@ -93,18 +122,21 @@ public class Developer
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=enigmasheet&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -112,10 +144,10 @@ public class Developer
 
 # 🚀 Current Focus
 
-- Building a Laundry Management SaaS Platform
-- Learning scalable system architecture
-- Improving backend engineering skills
-- Exploring Azure cloud ecosystem
+- 🧺 Building a Laundry Management SaaS Platform
+- 🏗️ Learning scalable system architecture
+- ⚙️ Improving backend engineering skills
+- ☁️ Exploring Azure cloud ecosystem
 
 ---
 
@@ -123,11 +155,17 @@ public class Developer
 
 <p align="center">
   <a href="mailto:info@abhaymandal.com.np">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/enigmasheet">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
