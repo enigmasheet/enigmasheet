@@ -73,12 +73,12 @@ public class Developer
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,blazor" />
 </p>
 
 ### Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mssql,docker,VPS" />
 </p>
 
 ### Tools
