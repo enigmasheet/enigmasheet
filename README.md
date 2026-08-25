@@ -95,29 +95,6 @@ public class Developer
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=enigmasheet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-</p>
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enigmasheet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=enigmasheet&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 # 🚀 Current Focus
 
 - 🧺 Building Laundry Management SaaS Platform
