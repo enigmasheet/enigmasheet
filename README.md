@@ -38,13 +38,13 @@
   <img src="https://img.shields.io/badge/Kathmandu-Nepal-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<pre>
+```console
 abhay@dev:~$ whoami
 Abhay Kumar Mandal · Full-Stack Engineer (.NET)
 
 abhay@dev:~$ focus
 ASP.NET Core · REST/GraphQL APIs · Data Access · TypeScript
-</pre>
+```
 
 ---
 
@@ -60,7 +60,7 @@ I hold a Bachelor’s degree in Information Technology from Texas College of Man
 
 ## Toolbox
 
-<p>
+<p align="center">
   <strong>Languages</strong><br />
   <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -68,7 +68,7 @@ I hold a Bachelor’s degree in Information Technology from Texas College of Man
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white" alt="SQL" />
 </p>
 
-<p>
+<p align="center">
   <strong>.NET &amp; APIs</strong><br />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -78,7 +78,7 @@ I hold a Bachelor’s degree in Information Technology from Texas College of Man
   <img src="https://img.shields.io/badge/Hot_Chocolate-5B2D90?style=flat-square" alt="Hot Chocolate" />
 </p>
 
-<p>
+<p align="center">
   <strong>Frontend</strong><br />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -87,7 +87,7 @@ I hold a Bachelor’s degree in Information Technology from Texas College of Man
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<p>
+<p align="center">
   <strong>Data &amp; delivery</strong><br />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -101,22 +101,60 @@ I hold a Bachelor’s degree in Information Technology from Texas College of Man
 
 ## Selected Work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [GraphQL .NET Practice](https://github.com/enigmasheet/GraphQL_DotNet_Practice) | GraphQL API and typed Blazor client exploring Relay paging, DataLoaders, mutations, and subscriptions | .NET 10 · Hot Chocolate · Strawberry Shake · PostgreSQL |
-| [LaundryManager](https://github.com/enigmasheet/Laundry-Management-System) | Vendor discovery, service catalogs, and laundry order workflows | ASP.NET Core · Blazor WebAssembly · SQL Server |
-| [VAT Expense Ledger](https://github.com/enigmasheet/VATExpense) | Purchase invoices with Bikram Sambat dates, VAT, and fiscal-year reporting · [Live](https://vat.abhaymandal.com.np/) | Next.js · TypeScript · PostgreSQL |
-| HMC Nepal | Public storefront and dealer/admin warranty workflows · [Public site](https://www.hmcnepal.com.np/) | Next.js · Express · MongoDB |
-| [Sajilo Inventory](https://github.com/enigmasheet/inventoryMangement) | Shop-scoped inventory with custom fields, stock movements, and stock takes | Next.js · Prisma · PostgreSQL |
-| TeachMate | Structured C++/OOP learning, teacher-led quizzes, and QR-code session joining · [Live](https://teachmate.abhaymandal.com.np/) | Next.js · TypeScript · MongoDB |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 GraphQL .NET Practice</h3>
+      <p>GraphQL API and typed Blazor client exploring Relay paging, DataLoaders, typed mutations, and subscriptions.</p>
+      <p><img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /> <img src="https://img.shields.io/badge/Hot_Chocolate-E10098?style=flat-square" alt="Hot Chocolate" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+      <a href="https://github.com/enigmasheet/GraphQL_DotNet_Practice">Source code ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧺 LaundryManager</h3>
+      <p>Vendor discovery, service catalogs, and laundry order workflows built around a .NET API and Blazor client.</p>
+      <p><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /></p>
+      <a href="https://github.com/enigmasheet/Laundry-Management-System">Source code ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 VAT Expense Ledger</h3>
+      <p>Purchase invoices with Bikram Sambat dates, configurable VAT, and fiscal-year reporting.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+      <a href="https://github.com/enigmasheet/VATExpense">Source</a> · <a href="https://vat.abhaymandal.com.np/">Live site ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ HMC Nepal</h3>
+      <p>Public storefront, dealer portal, and admin tools for product catalog and warranty workflows.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></p>
+      <a href="https://www.hmcnepal.com.np/">Public site ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Sajilo Inventory</h3>
+      <p>Multi-tenant shop inventory with custom product fields, stock movements, and stock takes.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+      <a href="https://github.com/enigmasheet/inventoryMangement">Source code ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 TeachMate</h3>
+      <p>Structured C++/OOP lessons, teacher-led quizzes, and QR-code classroom sessions.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></p>
+      <a href="https://teachmate.abhaymandal.com.np/">Live site ↗</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Currently Focused On
 
-- Designing maintainable APIs and backend services with ASP.NET Core and GraphQL
-- Data access, query behavior, and clear API contracts
-- Building full-stack products across .NET and TypeScript ecosystems
+<p align="center">
+  <img src="https://img.shields.io/badge/01-ASP.NET_Core_&_GraphQL-512BD4?style=for-the-badge" alt="ASP.NET Core and GraphQL" />
+  <img src="https://img.shields.io/badge/02-Data_Access_&_API_Design-2563EB?style=for-the-badge" alt="Data access and API design" />
+  <img src="https://img.shields.io/badge/03-Full--Stack_Product_Engineering-0F766E?style=for-the-badge" alt="Full-stack product engineering" />
+</p>
 
 ---
 
